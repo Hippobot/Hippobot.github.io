@@ -18,4 +18,6 @@
 - Leveraged excel functions, including VLOOKUPs, XLOOKUPs and pivot tables, to simplify analysis and reporting processes.
 
 ## Projects
+### Pytorch Job Applications Bot (NLP and Deep Learning)
 
+Using NLP and web scrapping, created an application with the ability to apply to Linkedin easy apply positions. This utilized the pytorch for deep learning inorder to construct the application. The application is easily customizable by simply editing a json for a better user experience.
