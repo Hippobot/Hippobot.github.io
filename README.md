@@ -11,7 +11,7 @@ Current data analyst with 4 years of experience, seeking an analyst role with ex
 - Bachelors of Science, Data Science | The University of North Carolina at Charlotte (_May 2024_)
 - Associates, Computer Science | Central Piedmont University (_May 2022_)
 
-## Work Experience
+### Work Experience
 **Data Analyst – 33 1/3 Record Distribution (_May 2020 - April 2024_)**
 - Analyze extensive customer sales data to develop insightful PowerBI dashboards and visualizations.
 - Collaborated with the product management team to perform cohort analysis, leading to pricing strategies that increased annual revenue by 8% in 2023.
@@ -27,6 +27,16 @@ In 2022, the Charlotte Mecklenburg Police Department gave out a complex data set
 Below is an image of the vehicle related crimes mapped over mecklenburg census tracts with the distinction in either private or non private residence.
 ![CMPD](/assets/img/output.png)
 
-### 2. Pytorch Job Applications Bot (NLP and Deep Learning)
+### 2. School EOG Scores with Power Bi/Excel/Python
+[Link](https://www.linkedin.com/posts/mahmoud-alhousseiny-613004151_i-recently-took-part-in-a-second-round-interview-activity-7210690177705357313-5M1l?utm_source=share&utm_medium=member_desktop)
+As part of the 3nd round interview for the position of senior data analyst at CMS, I was tasked with creating a presentation using tools such as power bi, excel, python, and powerpoint. The goal was to analyze past years End of Grade (EOG) scores for students in NC and use that data to predict future years performances. With a r^2 value of 0.72. I was able to reasonably predict the 2024-2025 school year EOG performances after using ridge regression and ANOVA testing. The presentation involved a LIT review, before understanding and cleaning the data. The data was then transformed using a mixture of Power Bi and Excel. The spatial analysis was conducted in Python. Some insights gained included, male and female students perform similarly. Post COVID-19, most students EOG scores rebounded to pre COVID-19 years. Minority students EOG scores decreased the most during COVID-19.
+
+Below is an image that showcases the spatial analysis done to find the top 5 school districts with the highest percentage of students achieving a score of not proficient.
+![CMS](/assets/img/spatial_analysis.png)
+
+Below is an image that compares all student subgroups and their performance levels.
+![CMS](/assets/img/compare.png)
+
+### 3. Pytorch Job Applications Bot (NLP and Deep Learning)
 ![DeepLearning](/assets/img/deep_learning.png)
 Using NLP and web scrapping, I created an application with the ability to apply to Linkedin easy apply positions. This utilized the pytorch for deep learning inorder to construct the application. The application is easily customizable by simply editing a json for a better user experience.
