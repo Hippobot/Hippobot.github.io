@@ -19,7 +19,7 @@ Current data analyst with 4 years of experience, seeking an analyst role with ex
 - Leveraged excel functions, including VLOOKUPs, XLOOKUPs and pivot tables, to simplify analysis and reporting processes.
 
 ## Projects
-### Policing with Predictive Modeling
+### 1. Policing with Predictive Modeling
 [Link](https://github.com/Hippobot/Policing-with-Predictive-Modeling/tree/main)
 
 In 2022, the Charlotte Mecklenburg Police Department gave out a complex data set spanning multiple years which detailed all sorts of crimes, locations, and many other criteria. The dataset was non anonymized while also having close to 1 million rows and 100s of features (columns). The dataset was not clean and lacking any rubric/legend to reference for the column labels. I was tasked to see if I can bring any insights to the table from this dataset and present to the relevant stakeholders. I led a team of 4 of my peers to publish a report on the CMPD data and construct an XG-Boost classification model to predict vehicle crime from car characteristics (model, make, color, etc). ArcGIS was used to spatially join the shape files to the csv police dataset and create distance buffer zones. Excel was used to clean and organize the data, then used python to initialize everything. This resulted in a model with a 70% accuracy after hyperparameter tuning. Changes were made to improve the model by another 9%. Red cars in certain census tracts were found more likely to be stolen. We also found certain makes and models of vehicles are more likely to be stolen depending on the socio-economic status of the census tract. With that information, the CMPD could then make more concentrated efforts at certain census tracts.
@@ -27,6 +27,6 @@ In 2022, the Charlotte Mecklenburg Police Department gave out a complex data set
 Below is an image of the vehicle related crimes mapped over mecklenburg census tracts with the distinction in either private or non private residence.
 ![CMPD](/assets/img/output.png)
 
-### Pytorch Job Applications Bot (NLP and Deep Learning)
+### 2. Pytorch Job Applications Bot (NLP and Deep Learning)
 ![DeepLearning](/assets/img/deep_learning.png)
 Using NLP and web scrapping, I created an application with the ability to apply to Linkedin easy apply positions. This utilized the pytorch for deep learning inorder to construct the application. The application is easily customizable by simply editing a json for a better user experience.
