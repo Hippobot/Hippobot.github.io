@@ -19,10 +19,6 @@ Current data analyst with 4 years of experience, seeking an analyst role with ex
 - Leveraged excel functions, including VLOOKUPs, XLOOKUPs and pivot tables, to simplify analysis and reporting processes.
 
 ## Projects
-### Pytorch Job Applications Bot (NLP and Deep Learning)
-
-Using NLP and web scrapping, created an application with the ability to apply to Linkedin easy apply positions. This utilized the pytorch for deep learning inorder to construct the application. The application is easily customizable by simply editing a json for a better user experience.
-
 ### Policing with Predictive Modeling
 [Link](https://github.com/Hippobot/Policing-with-Predictive-Modeling/tree/main)
 
@@ -30,3 +26,7 @@ In 2022, the Charlotte Mecklenburg Police Department gave out a complex data set
 
 Below is an image of the vehicle related crimes mapped over mecklenburg census tracts with the distinction in either private or non private residence.
 ![CMPD](/assets/img/output.png)
+
+### Pytorch Job Applications Bot (NLP and Deep Learning)
+
+Using NLP and web scrapping, created an application with the ability to apply to Linkedin easy apply positions. This utilized the pytorch for deep learning inorder to construct the application. The application is easily customizable by simply editing a json for a better user experience.
