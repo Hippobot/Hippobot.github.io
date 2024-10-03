@@ -29,6 +29,7 @@ Below is an image of the vehicle related crimes mapped over mecklenburg census t
 
 ### 2. School EOG Scores with Power Bi/Excel/Python
 [Link](https://www.linkedin.com/posts/mahmoud-alhousseiny-613004151_i-recently-took-part-in-a-second-round-interview-activity-7210690177705357313-5M1l?utm_source=share&utm_medium=member_desktop)
+
 As part of the 3nd round interview for the position of senior data analyst at CMS, I was tasked with creating a presentation using tools such as power bi, excel, python, and powerpoint. The goal was to analyze past years End of Grade (EOG) scores for students in NC and use that data to predict future years performances. With a r^2 value of 0.72. I was able to reasonably predict the 2024-2025 school year EOG performances after using ridge regression and ANOVA testing. The presentation involved a LIT review, before understanding and cleaning the data. The data was then transformed using a mixture of Power Bi and Excel. The spatial analysis was conducted in Python. Some insights gained included, male and female students perform similarly. Post COVID-19, most students EOG scores rebounded to pre COVID-19 years. Minority students EOG scores decreased the most during COVID-19.
 
 Below is an image that showcases the spatial analysis done to find the top 5 school districts with the highest percentage of students achieving a score of not proficient.
