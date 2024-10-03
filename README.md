@@ -2,7 +2,7 @@
 
 #### Summary
 
-Current data analyst with 4 years of experience, seeking an analyst role with expertise in **data collection, analysis, and reporting**. Additional **focus on verbal and written communication skills** with a track record of working in collaborative team environments. Increased annual revenue of a record distribution company by 8% in 2023 by collaborating with the product management team and performing cohort analysis. Skilled in **data validation, handling inquiries, creating scheduled/ad hoc reports, and data visualization**. A proven track record in enhancing data infrastructure and providing reports to stakeholders.
+Current data analyst with 4 years of experience, seeking an analyst role with expertise in data collection, analysis, and reporting. Additional **focus on verbal and written communication skills** with a track record of working in collaborative team environments. Increased annual revenue of a record distribution company by 8% in 2023 by collaborating with the product management team and performing cohort analysis. Skilled in **data validation, handling inquiries, creating scheduled/ad hoc reports, and data visualization**. A proven track record in enhancing data infrastructure and providing reports to stakeholders.
 
 #### Technical Skills: Python, SQL, AWS, R, MATLAB, Azure, Power Bi, Excel, CSS, HTML, Git
 
@@ -46,4 +46,5 @@ Using **NLP and web scrapping**, I created an application with the ability to ap
 ## Certifications
 
 Data Analyst Associate – Data Camp        [Link](www.datacamp.com/certificate/DAA0014437719902)
+
 Data Specimens Only Research – CITI Program	
