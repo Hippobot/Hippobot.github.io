@@ -28,5 +28,5 @@ Below is an image of the vehicle related crimes mapped over mecklenburg census t
 ![CMPD](/assets/img/output.png)
 
 ### Pytorch Job Applications Bot (NLP and Deep Learning)
-
+![DeepLearning](/assets/img/deep_learning.png)
 Using NLP and web scrapping, created an application with the ability to apply to Linkedin easy apply positions. This utilized the pytorch for deep learning inorder to construct the application. The application is easily customizable by simply editing a json for a better user experience.
